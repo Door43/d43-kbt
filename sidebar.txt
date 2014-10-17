@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kbt:home|Door43 (kbt)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kbt|d43-kbt repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kbt/archive/master.zip|d43-kbt.zip]]
+
+**Recent Changes**
+{{changes>ns = kbt}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kbt|Ethnologue data]]
+
